@@ -1,6 +1,6 @@
 # Claudio Fahey's Portfolio
 
-## Authorized Public Documents
+## Public documents that I authored
 
 - [Dell EMC Isilon, PowerSwitch, and NVIDIA DGX-2 Systems for Deep Learning](documents/h18079-dell-emc-isilon-powerswitch-and-nvidia-dgx-2-systems-for-deep-learning.pdf)
 - [Deep Learning with Dell EMC Isilon ](documents/h17361_wp_deep_learning_and_dell_emc_isilon.pdf)
